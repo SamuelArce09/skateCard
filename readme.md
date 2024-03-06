@@ -1,0 +1,1 @@
+estos estilos seran ejecutados con sass, esto es una carda de compra de una patinaje con un efecto de hover que mueve a la derecha la car y con una rotacion de la patineta hacia la derecha y con un boton que dice añadir al carrito
